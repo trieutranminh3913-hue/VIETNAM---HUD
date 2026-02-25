@@ -1,1 +1,1 @@
-
+print("VIETNAM HUD Loaded")
